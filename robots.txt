@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://shihe25525.github.io//sitemap.xml
