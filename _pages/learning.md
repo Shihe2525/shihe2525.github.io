@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /learning/
 title: Learning
 description: Recent courses taught at Lingnan University
 nav: true
