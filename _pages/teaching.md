@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: Learning
 description: Recent courses taught at Lingnan University
 nav: true
 nav_order: 7
