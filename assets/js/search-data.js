@@ -58,8 +58,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/codes/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
+        },{id: "nav-learning",
+          title: "Learning",
           description: "Recent courses taught at Lingnan University",
           section: "Navigation",
           handler: () => {
