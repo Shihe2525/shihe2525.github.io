@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>AI4Materials & Computation Group</a>
+subtitle: <a href='#'>Zhengzhou University & Lingnan University in Hongkong</a>
 
 profile:
   align: right
